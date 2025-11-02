@@ -73,4 +73,4 @@ This project responds to Dave’s dramatic (but totally reasonable) concerns usi
 
 - Notebook: `Churn_Prediction_Model.py`  
 - Visuals: Confusion Matrix, ROC Curves, Feature Importance  
-- PDF: 1-page project summary (see `Customer Churn Prediction - Machine Learning Case Study.docx`)
+- PDF: 1-page project summary (see `Customer Churn Prediction - Machine Learning Case Study.pdf`)
